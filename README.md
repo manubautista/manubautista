@@ -9,7 +9,7 @@ http://cvbautista.pythonanywhere.com/
 #### Actualmente me dedico a:
 
 
-- Reforzar conocimientos sobre Django (backend) y JavaScript, HTML y CSS (frontend)
-- Realizar proyectos que demuestren mis conocimientos
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+- Reforzar conocimientos sobre Django y Node.js (backend) && JavaScript, HTML y CSS (frontend)
+- Realizar proyectos que demuestren mis conocimientos.
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
 
