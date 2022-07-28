@@ -1,5 +1,5 @@
 ### Mi nombre es Manuel Bautista. 👋
-#### Desarrollador junior full-stack 💻 actualmente en **búsqueda activa** de empleo 🧉.
+#### Desarrollador Full Stack 💻 actualmente en **búsqueda activa** de empleo 🧉.
 
 #### Podés encontrar todos mis conocimientos en mi CV Virtual:
 http://cvbautista.pythonanywhere.com/
