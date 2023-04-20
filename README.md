@@ -3,7 +3,7 @@
 
 #### Podés encontrar mis conocimientos de Full Stack en mi [Portafolio Virtual](https://manuelbautista.netlify.app/) o directamente en mi [Currículum](https://drive.google.com/file/d/11nUWbCFOv5ZXOskl6ltptOdaNpPYFrLP/view?usp=sharing). 
 
-#### Actualmente me dedico a:
+#### Actualmente me dedico a desarrollar procesos RPA:
 
 - Análisis, estimación y desarrollo de proyectos para cliente.
 - Trabajo en ambientes de desarrollo y producción.
