@@ -1,5 +1,5 @@
 ### Mi nombre es Manuel Bautista. 👋
-#### Desarrollador **RPA en KPMG** con experiencia y conocimientos en Full Stack 💻🧉.
+#### Desarrollador **RPA** con experiencia y conocimientos en Full Stack 💻🧉.
 
 #### Podés encontrar mis conocimientos de Full Stack en mi [Portafolio Virtual](https://manuelbautista.netlify.app/) o directamente en mi [Currículum](https://drive.google.com/file/d/1KXGiMPcA0xfgE3iXo5svRSn8m-aZTsbw/view?usp=sharing). 
 
